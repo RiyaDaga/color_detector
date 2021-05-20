@@ -1,1 +1,3 @@
-# color_detector
+GRIP Internship
+task_2
+Color Identification in Image
